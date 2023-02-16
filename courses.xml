@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<courses>
+    <course title="Course 1">
+        <Students>
+            <student id="123">
+                <first>Shubham</first>
+                <last>Domir</last>
+                <username>sdomir</username>
+            </student>
+
+            <student id="234">
+                <first>Shivam</first>
+                <last>Domir</last>
+                <username>sdomir</username>
+            </student>
+        </Students>
+    </course>
+
+    <course title="Course 2">
+        <Students>
+            <student id="345">
+                <first>Nishant</first>
+                <last>Shah</last>
+                <username>nshah</username>
+            </student>
+
+            <student id="456">
+                <first>Vinod</first>
+                <last>Singh</last>
+                <username>vsingh</username>
+            </student>
+        </Students>
+    </course>
+</courses>
